@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats :
 ![Rishika-993's Stats](https://github-readme-stats.vercel.app/api?username=Rishika-993&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Rishika-993's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishika-993&theme=vue-dark&hide_border=true)<br/>
-![Rishika-993's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika-993&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Rishika-993's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika-993&theme=vue-dark&show_icons=true&hide=jupyter%20notebook&hide_border=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rishika-0&icon=0&color=0)](https://visitcount.itsvg.in)
