@@ -1,71 +1,62 @@
-### Hi there 👋
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=32&color=C084F5&center=true&vCenter=true&width=850&height=70&lines=Hey+👋+I'm+Rishika;MERN+Stack+Developer+'+💻+';Always+Learning+🚀" />
+</p>
 
-<!--
-**Rishika-0/Rishika-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" />
+</p>
 
-Here are some ideas to get you started:
+<!--<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400" />
+</p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,sass,vite,redux,nodejs,express,python,java,rust,mongodb,postgres,mysql,redis,appwrite,firebase,aws,azure,vercel,git,github,linux,postman" />
+</p>
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishika-993&show_icons=true&hide_border=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika-993&layout=compact&hide_border=true&theme=tokyonight&hide=jupyter%20notebook" height="180em"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rishika-993&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github.com/Rishika-993/Rishika-993/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p> -->
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-MERN-informational?style=for-the-badge&logo=javascript&color=yellow" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack-blueviolet?style=for-the-badge&logo=linux" />
+  <img src="https://komarev.com/ghpvc/?username=Rishika-993&style=for-the-badge&color=brightgreen" />
+</p>
+<p>👯 I’m looking to collaborate on <b>Open Source Projects</p>
+<p>📫 Reach me at: <b>rishikaagrawal22@gmail.com</p>
+
+
+<!-- ## 🌟 Featured Projects  
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 🚀 **CloudNotes** | A full-stack note app with AWS S3 & Lambda | [Demo](https://yourlink.com) |
+| 📊 **DevOps Dashboard** | Kubernetes monitoring tool | [Demo](https://yourlink.com) |
+| 💻 **Portfolio** | Personal portfolio with Next.js | [Visit](https://yourportfolio.com) |
+
 -->
-- 👯 I’m looking to collaborate on Open Source Projects
-- - 📫 How to reach me: rishikaagrawal22@gmail.com
-  
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishika-a-b60688139/) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-# 💻 Languages and Tools:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-# 📊 GitHub Stats :
-![Rishika-993's Stats](https://github-readme-stats.vercel.app/api?username=Rishika-993&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Rishika-993's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishika-993&theme=vue-dark&hide_border=true)<br/>
-![Rishika-993's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika-993&theme=vue-dark&show_icons=true&hide=jupyter%20notebook&hide_border=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rishika-0&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!-- ## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=devto" /></a>
+</p> -->
